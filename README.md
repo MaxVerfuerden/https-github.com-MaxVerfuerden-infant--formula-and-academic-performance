@@ -11,6 +11,8 @@ The proposal to link the trials and NHS data underwent a robust ethical, legal a
 
 # Publications associated with this project
 
+Full description of project and all trials: https://discovery.ucl.ac.uk/id/eprint/10128325/17/Verfuerden_10128325_Thesis_redacted.pdf
+
 Systematic review of cognitive effects associated with infant formula supplemented with LCPUFA: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241800
 
-Research protocol: https://bmjopen.bmj.com/content/10/7/e035968
+Research protocol for 7 trials: https://bmjopen.bmj.com/content/10/7/e035968
