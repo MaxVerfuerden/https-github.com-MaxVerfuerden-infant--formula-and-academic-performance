@@ -13,3 +13,5 @@ Full description of project and all trials: https://discovery.ucl.ac.uk/id/eprin
 Systematic review of cognitive effects associated with infant formula supplemented with LCPUFA: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241800
 
 Research protocol for 7 trials: https://bmjopen.bmj.com/content/10/7/e035968
+
+Publication of results for 7 trials:  https://www.bmj.com/content/375/e065805
